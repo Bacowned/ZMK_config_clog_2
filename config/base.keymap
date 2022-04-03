@@ -134,7 +134,6 @@
                   &none &kp F4 &kp F5 &kp F6 &kp F12        &none &bt BT_CLR   &none        &none        &none
                                     &none  &none        &none &none
             >;
-            >;
         };
     };
 };
